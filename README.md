@@ -6,7 +6,7 @@ Node.js runtime environment.
 <h1>Quick Start</h1>
 
 # Clone project
-git clone https://github.com/rahulk16/React-User-Table-View.git
+git clone https://github.com/rahulk16/React-User-Table-View.git <br>
 cd React-User-Table-View/
 
 # Install packages
