@@ -7,6 +7,7 @@ Node.js runtime environment.
 
 # Clone project
 git clone https://github.com/rahulk16/React-User-Table-View.git
+cd React-User-Table-View/
 
 # Install packages
 npm install --save
