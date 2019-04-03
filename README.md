@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Node.js runtime environment.
 <h1>Quick Start</h1>
 
+# Clone project
+git clone https://github.com/rahulk16/React-User-Table-View.git
+
 # Install packages
 npm install --save
 
