@@ -14,9 +14,9 @@ class App extends Component {
             </Header>
           </Menu.Item>
           <Menu.Item position='right'>
-            <iframe src="https://ghbtns.com/github-btn.html?user=gges5110&repo=React-Semantic-UI-Sortable-Table-Example&type=star&count=true&size=large" scrolling="0" frameBorder="0" width="120px" height="30px"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=gges5110&repo=React-User-Table-View&type=star&count=true&size=large" scrolling="0" frameBorder="0" width="120px" height="30px"></iframe>
 
-            <Button color='facebook' as='a' href='https://github.com/gges5110/React-Semantic-UI-Sortable-Table-Example'>
+            <Button color='facebook' as='a' href='https://github.com/rahulk16/React-User-Table-View'>
               <Icon name='github' />
               Project Source
             </Button>
